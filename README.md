@@ -1,5 +1,4 @@
 <h1 align="center">Akash Goud Sidduluri</h1>
-
 <h3 align="center">IT Undergraduate · Vasavi College of Engineering</h3>
 
 <p align="center">
@@ -25,18 +24,8 @@
 Strong interest in:
 
 * Data Structures & Algorithms
-* Backend logic and APIs
-* Writing efficient and clean code
-
-I focus on understanding *why solutions work*, handling edge cases, and improving performance.
-
----
-
-## What I’m Working On
-
-* Strengthening DSA (recursion → DP → optimization)
-* Learning React & Node.js (full-stack basics)
-* Improving fundamentals in DBMS and Computer Networks
+* Backend systems and APIs
+* Writing efficient, clean code
 
 ---
 
@@ -44,11 +33,21 @@ I focus on understanding *why solutions work*, handling edge cases, and improvin
 
 **Languages**
 
-* C, C++, Java, Python, JavaScript
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
 **Web**
 
-* HTML, CSS, JavaScript
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
 **Core Concepts**
 
@@ -56,21 +55,45 @@ I focus on understanding *why solutions work*, handling edge cases, and improvin
 * Object-Oriented Programming (OOP)
 * Computer Networks
 
-**Learning**
+**Currently Learning**
 
-* React
-* Node.js
-* Backend Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+</p>
+
+---
+
+## 🚧 Current Projects
+
+**DevFlow (Full Stack Project Management App)**
+A full-stack system using React, Node.js, Express, and MongoDB for managing projects and issues with a Kanban workflow. Includes authentication, REST APIs, and real-time UI updates.
+
+**VCE Bus Tracking System**
+Flutter + Firebase app for real-time college bus tracking. Drivers broadcast GPS location while students track buses live with Google Maps integration and route visualization.
+
+---
+
+## 📦 Previous Projects
+
+**Scriptoria (AI Screenplay Generator)**
+Flask-based backend with Supabase (PostgreSQL) and Ollama (local LLM) to generate screenplay content. Fully server-controlled architecture with no direct client DB access and custom auth/session handling.
+
+**PhishGuard (AI Phishing Detection System)**
+ML-based system using XGBoost to detect malicious URLs in real time. Includes Flask API, web dashboard, and Chrome extension for live browser protection.
 
 ---
 
 ## Profiles
 
-* 🔗 LeetCode: https://leetcode.com/u/akashgoudsidduluri
-* 🔗 CodeChef: https://codechef.com/user/cry_note
-* 🔗 Codeforces: https://codeforces.com/profile/akashgoudsidduluri
-* 🔗 HackerRank: https://hackerrank.com/profile/1602_24_737_066
-* 🔗 LinkedIn: https://linkedin.com/in/akash-goud-sidduluri-68aba5322
+<p>
+<a href="https://github.com/akashgoudsidduluri"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35"/></a>
+<a href="https://leetcode.com/u/akashgoudsidduluri"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35"/></a>
+<a href="https://codechef.com/user/cry_note"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="35"/></a>
+<a href="https://codeforces.com/profile/akashgoudsidduluri"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="35"/></a>
+<a href="https://hackerrank.com/profile/1602_24_737_066"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="35"/></a>
+<a href="https://linkedin.com/in/akash-goud-sidduluri-68aba5322"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35"/></a>
+</p>
 
 ---
 
