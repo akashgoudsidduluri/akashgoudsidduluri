@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashgoudsidduluri&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashgoudsidduluri&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=akashgoudsidduluri&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -87,12 +87,29 @@ ML-based system using XGBoost to detect malicious URLs in real time. Includes Fl
 ## Profiles
 
 <p>
-<a href="https://github.com/akashgoudsidduluri"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35"/></a>
-<a href="https://leetcode.com/u/akashgoudsidduluri"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35"/></a>
-<a href="https://codechef.com/user/cry_note"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="35"/></a>
-<a href="https://codeforces.com/profile/akashgoudsidduluri"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="35"/></a>
-<a href="https://hackerrank.com/profile/1602_24_737_066"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="35"/></a>
-<a href="https://linkedin.com/in/akash-goud-sidduluri-68aba5322"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35"/></a>
+<a href="https://github.com/akashgoudsidduluri">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/akashgoudsidduluri">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/akashgoudsidduluri">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://codechef.com/user/cry_note">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://hackerrank.com/profile/1602_24_737_066">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://linkedin.com/in/akash-goud-sidduluri-68aba5322">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -105,3 +122,4 @@ ML-based system using XGBoost to detect malicious URLs in real time. Includes Fl
 ---
 
 > I focus on writing correct and efficient solutions, not just making code run.
+
