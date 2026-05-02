@@ -99,7 +99,7 @@ ML-based system using XGBoost to detect malicious URLs in real time. Includes Fl
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://codechef.com/user/cry_note">
+<a href="https://codechef.com/user/cry_note_25">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
