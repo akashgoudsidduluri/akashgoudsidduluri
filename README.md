@@ -1,6 +1,8 @@
 <h1 align="center">Akash Goud Sidduluri</h1>
 <h3 align="center">IT Undergraduate · Vasavi College of Engineering</h3>
-
+<p align="center">
+Full-Stack Applications ● Backend Systems ● Open Source ● Competitive Programming ● Applied AI
+</p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=akashgoudsidduluri&label=Profile%20Views&color=0e75b6&style=flat" /></p>
 
@@ -36,32 +38,56 @@ Focused on building production-ready applications while strengthening fundamenta
 
 ## 🚀 Work Highlights
 
-* Built full-stack applications using React, Node.js, Express, and MongoDB
-* Developed real-time systems using Firebase and Google Maps integration
-* Designed secure backend architectures with server-side authentication
-* Implemented machine learning pipelines for phishing detection
-* Built and deployed REST APIs for production-style applications
+* Built full-stack applications using React, Node.js, Express, PostgreSQL, and MongoDB
+* Developed GitRank, a deployed GitHub analytics platform using GitHub REST and GraphQL APIs
+* Designed custom scoring systems, contribution analytics, achievements, and repository intelligence dashboards
+* Implemented machine learning pipelines for phishing detection using XGBoost and DistilBERT
+* Built and deployed production-ready REST APIs on modern cloud platforms
+* Contributed to multiple open-source projects through GirlScript Summer of Code 2026
 
 ---
 
 ## 🚧 Featured Projects
 
-### DevFlow
+### GitRank
 
-Full-stack project management platform built with React, Node.js, Express, and MongoDB featuring authentication, issue tracking, Kanban workflows, and REST APIs.
+Full-stack GitHub analytics platform built with React, Express.js, GitHub REST API, and GraphQL featuring contribution heatmaps, streak analytics, repository insights, achievements, badges, developer rankings, and a custom GitRank Score engine.
+
+🔗 Live Demo: https://git-rank-kappa.vercel.app
+
+
+### Next-In-Line
+
+Full-stack hiring pipeline system built with React, Node.js, and PostgreSQL featuring candidate lifecycle management, event sourcing, replay functionality, and concurrency-safe seat allocation using PostgreSQL row-level locking.
 
 ### VCE Bus Tracking System
 
-Flutter and Firebase application for real-time college bus tracking with live GPS updates, route visualization, and Google Maps integration.
+College bus tracking application built using Flutter, Firebase, and Google Maps APIs featuring real-time GPS tracking, route visualization, live bus locations, and ETA updates for students.
 
 ### PhishGuard
 
-AI-powered phishing detection system using XGBoost, Flask APIs, a web dashboard, and a Chrome extension for real-time URL analysis.
+AI-powered phishing detection system using XGBoost, DistilBERT, REST APIs, and a Chrome extension for real-time URL and semantic phishing analysis.
+
+
+### WhatsApp Scam Guard
+
+Conversation-aware scam detection extension for WhatsApp Web using explainable rule-based analysis, trust scoring, intent-shift detection, and real-time warning systems.
+
 
 ### Scriptoria
 
 Screenplay generation platform powered by Flask, Supabase, and Ollama with secure server-side architecture and custom authentication.
 
+---
+
+## 🏅 Open Source
+
+### GirlScript Summer of Code 2026
+
+* Contributed across 4 open-source projects
+* Merged 80 pull requests
+* Resolved 85+ issues
+* Ranked among the Top 50 contributors out of 44,000+ participants
 ---
 
 ## 🛠️ Tech Stack
